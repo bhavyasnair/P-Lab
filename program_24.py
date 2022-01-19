@@ -10,5 +10,3 @@ n=input("Enter ist of words")
 a=list(n.split(','))
 print(a)
 words(a)
-    
-                     
